@@ -20,7 +20,7 @@ Leibniz-Institut für Kristallzüchtung (IKZ), Berlin, Germany
 class: slide
 -->
 
-# 自己紹介
+## 自己紹介
 
 <!--
 _class: slide-tight
@@ -35,12 +35,8 @@ _class: slide-tight
   * ホームページ: <https://sites.google.com/site/jpsingermany/>
 * 青熊会（ベルリンエリア日本人研究者ネットワーク）幹事
 
----
-<!--
-class: slide
--->
 
-# 経歴
+## 経歴
 
 * 2018年8月　慶應義塾大学理工学研究科　後期博士課程修了
 * 2018年12月　ベルリンにあるLeibniz結晶成長研究所にてポスドクをスタート
@@ -48,25 +44,23 @@ class: slide
 * 2023年4月　はじめてドイツで研究グラント（DFG Eigenestelle）を獲得
 * 2024年4月　JGL向け競争的資金を獲得（Leibniz Competition Programme）
 
----
 
-# そもそも何故こんな話を？
+## そもそも何故こんな話を？
 
 * ポスドクは多くいるけれど殆どの人が2-4年で帰国してしまう（寂しい！）
 * ドイツでのポスドク以降のキャリアパスはわかりにくい！日本語の資料もない！
 * ポスドク以降のキャリアステップについての情報は一定のニーズがありそう
 
----
 
-# このプレゼンを通して伝えたいこと
+
+## このプレゼンを通して伝えたいこと
 
 * ドイツでポスドク以降のキャリアに関する情報（ポスドクの次って？）
 * 若手グループリーダー（JGL）になるための具体的な道筋（資金獲得）
 * JGL向けの研究グラント（DFGなど）の選考プロセスに関する学びやヒント
 
----
 
-# （私が考える）ドイツでの理想的なキャリアパス
+## （私が考える）ドイツでの理想的なキャリアパス
 <!--
 _class: slide-tight
 -->
@@ -78,32 +72,17 @@ _class: slide-tight
 2. 博士号取得から2-5年にJGL向け競争的資金を獲得
 3. 大学でW2プロフェッサーになる or 研究所でパーマネントGLになる
 
----
-
-# （ちょっと宣伝）AvH Fellowship
+## （ちょっと宣伝）AvH Fellowship
 
 ミュンヘン工科大学の藤原素子さんが詳しい記事を執筆してくれています！
 * 「フンボルト奨学金　応募のすすめ」
 * <https://www2.yukawa.kyoto-u.ac.jp/~soken.editorial/sokendenshi/vol38/2/guide_humboldt_fellow.pdf>
-![h:200px](fig/Humboldt-susume.PNG)
-
----
 
 ![bg contain 70%](fig/Humboldt_susume.PNG)
 
----
+# ジュニアグループリーダー
 
-# 発表の流れ
-
-1. JGLってどういうポジション？
-2. JGL向け研究ファインディングプログラムの紹介
-3. DFG研究グラントについて
-4. 私の体験談と学び
-
-
----
-
-# そもそもジュニアグループリーダー（JGL）って？
+## そもそもジュニアグループリーダー（JGL）って？
 
 *独立して研究グループを率いる若手研究者に対して提供されるポジションで、将来の独立した研究者としてのキャリアを築くための重要なステップ*
 
@@ -111,14 +90,8 @@ _class: slide-tight
 * 外部から**競争的研究資金**（独自の研究グループの立ち上げ・研究遂行資金）を獲得することが前提
 * JGLを経て**テニュア教授職へステップアップ**する研究者が多い
 
----
 
-# JGL向けファンディングプログラム
-
-<style scoped>
-  table { display:table; width: 100; font-size: 22px; }
-  section {font-size: 18px;}
-</style>
+## JGL向けファンディングプログラム
 
 | プログラム               | 資金額          | 期間     | 対象者                     | 申請言語 | 採択率 |
 |--------------------------|------------------|----------|----------------------------|-----|-----|
@@ -131,35 +104,24 @@ _class: slide-tight
 *Leibniz協会が最大1M EUR出資。残りは所属研究所の基盤研究費によって賄われる。
 Max-Planck協会・Fraunhofer協会が同様のプログラムを提供しているかは把握できていません（ご存知の人は是非教えてください）
 
----
 
-# JGL向けプログラムの応募資格と選考プロセス
+## JGL向けプログラムの応募資格と選考プロセス
 
 * 博士号取得後の年数による応募資格の制限（殆ど場合PhD defenceの日から数える）
 * 産休・育休等のキャリアブレークの期間は考慮される
 * 選考プロセスは書類審査＆プレゼンテーションの二段階
 * 最終的な採否決定まで約7-8ヶ月
 
----
 
-# JGL向けファンディングを獲得したらどうなる？
+## JGL向けファンディングを獲得したらどうなる？
 
 * 自分の研究グループを立ち上げることができる！
 * 自分のPIポジションは5-6年間安泰!（必ず予算に含まれる）
 * 博士学生或いはポスドクを複数名雇える!（3名程度雇用するのが一般的）
 * 殆どの場合人件費で1M EURを超えるので、残りで備品・消耗品・旅費等を賄う
 
----
 
-<!--
-_class: slide-tight
--->
-<style scoped>
-  section {font-size: 24px;}
-</style>
-# 　ERC Starting Grant
-
-<img src="fig/erc_starting_grant.jpg" width="300px" style="position: absolute; bottom: 20; right: 200;">
+### ERC Starting Grant
 
 * 欧州研究会議（European Research Council）が提供する、**研究分野を問わない**プログラム
 * **博士号取得から7年**まで申請可能（全プログラム中最長）
@@ -173,15 +135,8 @@ _class: slide-tight
   - Step2での評価がB: 来年再申請可能
 * Link: https://erc.europa.eu/apply-grant/starting-grant
 
----
-<!--
-_class: slide-tight
--->
-<style scoped>
-  section {font-size: 24px;}
-</style>
-# DFG Emmy Noether Programme
-<img src="fig/emmy-noether.jpg" width=300px style="position: absolute; top: 20; right: 20;">
+
+### DFG Emmy Noether Programme
 
 * ドイツ学術振興会が提供する6年間のプログラム（中間審査あり）
 * 応募資格が**博士号取得から4年間**で最も短い
@@ -191,40 +146,28 @@ _class: slide-tight
 * 二次審査はDFG Review Board（大学教授9人）を相手にしたプレゼンテーション25分+質疑25分 (WebExでした)
 * Link: https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether
 
----
-
-# Emmy Noetherは教授職への最短ルート
- <img src="fig/professorship_after_DFG.jpg" width=700px style="position: absolute; top: 150; right: 50">
+#### Emmy Noetherは教授職への最短ルート
+![bg contain](fig/professorship_after_DFG.jpg)
 
 - W2/W3プロフェッサーはR4
 - テニュアGLはR3もしくはR4
 - JGLはR3相当とみなされる
 
----
-
-# BMBF Nachwuchswettbewerb (junior competition)
+### BMBF Nachwuchswettbewerb (junior competition)
 - ドイツ連邦教育研究省（日本の文科省に相当）が提供するJGL向け競争的資金
 - 資金は最も大きい（プログラム次第）
 - 応募できる研究分野が限定される（国家戦略に基づいてプログラムが立ち上がる）
 - 各プログラムの詳細はBMBFのHPにはなく管理委託されたProjectträgerのHPにあります！（見つけづらい！）
 - **申請プロセスがドイツ語？**(BMBFの申請書類は基本的にすべてドイツ語です)
 
----
-
-# Quantum Futur
+#### Quantum Futur
 - https://www.quantentechnologien.de/forschung/foerderung/quantum-futur.html
 - プロジェクト管理はドイツ技術者協会(VDI)
 - 基礎的量子研究の成果を新たな応用へ移行させることを支援する
 - 資金は定められていないが3-4M EURが多い
 
----
-<!--
-_class: slide-tight
--->
-<style scoped>
-  section {font-size: 24px;}
-</style>
-# NanoMatFutur
+
+#### NanoMatFutur
 - https://www.ptj.de/projektfoerderung/vom-material-zur-innovation/nanomatfutur
 - プロジェクト管理はProjectträger Julich (PtJ)
 - 産業界での新たな応用を刺激し、**化学、物理学、生物学、ナノテクノロジー、プロセスエンジニアリング**などの分野の限界を押し広げる優秀な若手研究者を支援する
@@ -236,15 +179,8 @@ _class: slide-tight
   4. Materials for health and quality of life
   5. Materials for future building systems
 
----
-<!--
-_class: slide-tight
--->
-<style scoped>
-  section {font-size: 24px;}
-</style>
 
-# 各研究協会が独自に提供するプログラム
+### 各研究協会が独自に提供するプログラム
 - **Helmholz Young Investigator Groups** (Helmholtz協会)
   - https://www.helmholtz.de/en/career/careers-at-helmholtz/helmholtz-young-investigator-groups/
   - プログラム終了後、審査結果が良好であればパーマネントに
@@ -253,17 +189,15 @@ _class: slide-tight
   - 各研究所毎年一件しか応募できない（事前に内部コンペ）
   - https://www.leibniz-gemeinschaft.de/forschung/leibniz-wettbewerb/leibniz-junior-research-groups/
 
----
+
 
 # 私の経験
-* ポスドクをスタートして数ヶ月後、研究所内の名目JGLになる（外部資金を獲得するまでは実質ポスドク）
+* ポスドクをスタートして数ヶ月後、研究所内の名目JGLになる（外部資金を獲得するまでは実質ポスドクのままで呼び方が違うだけ）
 * **DFG Emmy Noether Programme**に申請 → 二次選考で不採択 :sob:
 * 研究計画のボリュームを削減して**DFG Individual Research Grant**（Eigenestelle / Temporaly position of principal investigator）として再申請 → 採択 :smile:
 * Leibniz協会が提供する**Leibniz Junior Research Groups**に申請 → 採択 :smile:
 
----
-
-# Emmy Noether Programmeで受けた質問
+## Emmy Noether Programmeで受けた質問
 
 - 採択された場合の具体的な教育プランは？
 - どのように博士学生を指導する？
@@ -272,11 +206,7 @@ _class: slide-tight
 - プログラム終了後のキャリアパスは？
 - 今から10年後は何をしていると思う？
 
----
-<!--
-_class: slide-tight
--->
-# Emmy Noetherプログラム不採択からの反省と学び
+## Emmy Noetherプログラム不採択からの反省と学び
 
 * 専門的な質問はそこまで来ない（Review Boardに一人くらい比較的近いバックグラウンドの教授がいるかも）。むしろ学生指導や教育プラン、キャリア等に関する質問が多い（人となりを見られている感じ）
 * **プロフェッサーになるまでのプランを具体的に提示**しよう！（プログラム終了後のキャリアは教授職と応える以外ない！）
@@ -284,14 +214,9 @@ _class: slide-tight
 * 教育プランもざっくりではなく具体的に準備しよう！
 * **情報収集不足！**
 
----
-
-# DFGは不採択でも再チャレンジできる！
+## DFGは不採択でも再チャレンジできる！
 
 * DFGは不採択の通知をメールで受け取ってから約6週間後にExpert Reviewのコメントと不採択理由が記載された手紙が送られてくる
 * Emmy Noetherプログラムの場合はタイムリミットが短いので要注意
 * Emmy Noetherの一次審査が通っていたら、通常のDFGグラントであれば採択されていた可能性が大!
 * 研究計画を手直ししてDFG Individual Research Grantに再申請するのが常套手段
-
-
----
