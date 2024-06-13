@@ -1,15 +1,3 @@
----
-# marp: true
-theme: mysimple
-footer: Hiroki Tanaka - <hiroki.tanaka@ikz-berlin.de>
-size: 16:9
-paginate: true
----
-<!--
-_class: title
-_header: 2024年6月15日 デュッセルドルフ日本人研究者交流会
--->
-
 # ドイツでポスドクの次のステップへ
 
 Leibniz-Institut für Kristallzüchtung (IKZ), Berlin, Germany
