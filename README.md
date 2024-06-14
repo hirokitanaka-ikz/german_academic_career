@@ -209,7 +209,7 @@ Max-Planck協会・Fraunhofer協会が同様のプログラムを提供してい
 
 # DFG Individual Research Grant
 
-![bg fit](fig/DFG_fundingprograms.JPG)
+![bg](fig/DFG_fundingprograms.JPG)
 
 * 所謂DFGプロポーザル
 * 日本での科研費に相当するが、ほぼ人件費
