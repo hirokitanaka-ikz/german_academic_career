@@ -99,7 +99,8 @@ _class: slide-tight
 | Leibniz Junior Research Groups | 1.6M EUR* | 5年間     | 博士号取得後2～5年以内 | 英 | 20% |
 
 *Leibniz協会が最大1M EUR出資。残りは所属研究所の基盤研究費によって賄われる。
-Max-Planck協会・Fraunhofer協会が同様のプログラムを提供しているかは把握できていません（ご存知の人は是非教えてください）
+- Max-Planck協会ではグループリーダー制度がこれに相当（https://www.mpg.de/career/max-planck-research-groups）
+- Fraunhofer協会が同様のプログラムを提供しているかは把握できていません
 
 
 ### ERC Starting Grant
