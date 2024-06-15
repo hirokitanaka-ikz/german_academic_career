@@ -233,3 +233,11 @@ _class: slide-tight
 * タイムリミットがあるので早く行動して損はない（早めに経験を！）
 * 不採択でもめげずに何度もチャレンジしよう！
 * 情報収集は大事（遠慮せずダメ元でも聞いてみよう！）
+
+# さいごに
+
+* 今日の資料はGitHubに上がっています！
+  https://github.com/hirokitanaka-ikz/german_academic_career
+* 詳しい記事を執筆中です！
+* 永野博先生著　「ドイツに学ぶ科学技術政策」がオススメ
+![bg right 50%](./fig/doitsu_ni_manabu_book.JPG)
