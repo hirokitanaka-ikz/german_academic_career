@@ -22,8 +22,8 @@ Leibniz-Institut für Kristallzüchtung (IKZ), Berlin, Germany
 * 2018年8月　慶應義塾大学理工学研究科　後期博士課程修了
 * 2018年12月　ベルリンにあるLeibniz結晶成長研究所にてポスドクをスタート
 * 2019年4月　同研究所にて名目JGLになる
-* 2023年4月　はじめてドイツで研究グラント（DFG Eigenestelle）を獲得
-* 2024年4月　JGL向け競争的資金を獲得（Leibniz Competition Programme）
+* 2023年3月　はじめてドイツで研究グラント（DFG Eigenestelle）を獲得
+* 2023年11月　JGL向け競争的資金を獲得（Leibniz Competition Programme）
 
 
 ## そもそも何故こんな話を？
