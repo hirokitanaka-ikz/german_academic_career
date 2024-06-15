@@ -240,4 +240,3 @@ _class: slide-tight
   https://github.com/hirokitanaka-ikz/german_academic_career
 * 詳しい記事を執筆中です！
 * 永野博先生著　「ドイツに学ぶ科学技術政策」がオススメ
-![bg right 50%](./fig/doitsu_ni_manabu_book.JPG)
